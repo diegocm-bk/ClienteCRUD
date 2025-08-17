@@ -1,0 +1,70 @@
+## Archivos de compilación
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Configuración de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de IDE (Visual Studio / Rider / VSCode)
+.vs/
+.idea/
+*.DotSettings.user
+*.vscode/
+
+## Dependencias y paquetes
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.vsix
+
+## Archivos temporales
+*.tmp
+*.temp
+*.log
+*.tlog
+
+## Archivos de lock
+project.lock.json
+project.fragment.lock.json
+
+## Compilación de ASP.NET
+project.json
+wwwroot/lib/
+wwwroot/node_modules/
+node_modules/
+
+## Publicaciones
+*.Publish.xml
+publish/
+out/
+
+## Archivos de cobertura y análisis
+*.coverage
+*.coveragexml
+TestResults/
+*.testsettings
+*.trx
+*.vsp
+*.vspx
+*.sap
+*.Cache
+*.svclog
+
+## Secretos y configuraciones locales
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## Otros
+_ReSharper.Caches/
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
+*.sqlite
