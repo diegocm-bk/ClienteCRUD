@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\controllers\\clientesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\controllers\\clientesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\data\\clientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\data\\clientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\wwwroot\\js\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\wwwroot\\js\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\diego\\clientecrud\\clientecrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CE9F57-BFF1-4423-8FE4-25428DF9339E}|ClienteCRUD\\ClienteCRUD.csproj|solutionrelative:clientecrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +66,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ClienteCRUD\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\appsettings.Development.json*",
+              "RelativeToolTip": "ClienteCRUD\\appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T22:44:34.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Program.cs",
+              "RelativeToolTip": "ClienteCRUD\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:15:27.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Data\\ClienteContext.cs",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Data\\ClienteContext.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Data\\ClienteContext.cs",
+              "RelativeToolTip": "ClienteCRUD\\Data\\ClienteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:13:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Controllers\\ClientesApiController.cs",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Controllers\\ClientesApiController.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Controllers\\ClientesApiController.cs",
+              "RelativeToolTip": "ClienteCRUD\\Controllers\\ClientesApiController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:20:17.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClienteCRUD\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T22:31:04.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClienteCRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:38:46.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ClienteCRUD\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:20:08.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ClienteCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\appsettings.json",
+              "RelativeToolTip": "ClienteCRUD\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAgAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T22:12:22.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "ClienteCRUD\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T22:16:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClienteCRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T22:15:34.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClienteCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T22:15:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Models\\Cliente.cs",
+              "RelativeToolTip": "ClienteCRUD\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:13:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clientes.js",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\wwwroot\\js\\clientes.js",
+              "RelativeDocumentMoniker": "ClienteCRUD\\wwwroot\\js\\clientes.js",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\wwwroot\\js\\clientes.js",
+              "RelativeToolTip": "ClienteCRUD\\wwwroot\\js\\clientes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-17T22:23:16.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ClienteCRUD\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Diego\\ClienteCRUD\\ClienteCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ClienteCRUD\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:28:32.142Z",
+              "EditorCaption": ""
             }
           ]
         }
