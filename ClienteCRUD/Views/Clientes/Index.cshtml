@@ -1,0 +1,71 @@
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+
+<section class="section">
+    <div class="container">
+        <h1 class="title">Gestión de Clientes</h1>
+
+        <form id="cliente-form">
+            <input type="hidden" id="cliente-id" />
+            <div class="field">
+                <label class="label">Nombre</label>
+                <div class="control">
+                    <input class="input" type="text" id="nombre" required>
+                </div>
+            </div>
+            <div class="field">
+                <label class="label">Apellido</label>
+                <div class="control">
+                    <input class="input" type="text" id="apellido" required>
+                </div>
+            </div>
+            <div class="field">
+                <label class="label">Email</label>
+                <div class="control">
+                    <input class="input" type="email" id="email" required>
+                </div>
+            </div>
+            <div class="field">
+                <label class="label">Teléfono</label>
+                <div class="control">
+                    <input class="input" type="tel" id="telefono">
+                </div>
+            </div>
+            <div class="field">
+                <label class="label">Dirección</label>
+                <div class="control">
+                    <input class="input" type="text" id="direccion">
+                </div>
+            </div>
+            <div class="field is-grouped">
+                <div class="control">
+                    <button class="button is-primary" type="submit">Guardar</button>
+                </div>
+                <div class="control">
+                    <button class="button is-light" type="reset">Limpiar</button>
+                </div>
+            </div>
+        </form>
+
+        <div class="notification is-danger is-hidden" id="error-box"></div>
+
+        <table class="table is-fullwidth" id="clientes-table">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Email</th>
+                    <th>Teléfono</th>
+                    <th>Dirección</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</section>
+
+<script src="~/js/clientes.js"></script>
